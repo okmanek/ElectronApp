@@ -19,6 +19,17 @@
  1736  hist > notes.txt
 
 
+
+
+
+
+
+> node
+> process.platform // 'linux' / 'win32' / 'darwin'
+> process
+
+
+
  source:
  https://www.youtube.com/watch?v=kN1Czs0m1SU
  Build an Electron App in Under 60 Minutes
