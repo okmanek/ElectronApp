@@ -1,0 +1,24 @@
+ 1718  cd code/code/electron_js/
+ 1719  l
+ 1720  npm init
+ 1721  sudo apt install npm
+ 1722  npm init
+ 1723  mkdir shopping_list
+ 1724  cd shopping_list
+ 1725  npm init
+ 1726  ls
+ 1727  v package.json
+ 1728  npm install --save electron
+ 1729  ls
+ 1730  ls node_modules/
+ 1731  v package.json
+ 1732  touch main.js
+ 1733  v main.js
+ 1734  v mainWindow.html
+ 1735  npm start
+ 1736  hist > notes.txt
+
+
+ source:
+ https://www.youtube.com/watch?v=kN1Czs0m1SU
+ Build an Electron App in Under 60 Minutes
